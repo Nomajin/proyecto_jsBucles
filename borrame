@@ -1,0 +1,2 @@
+git config --global user.email "noahmartos@gmail.com"
+git config --global user.name "Nomajin"
