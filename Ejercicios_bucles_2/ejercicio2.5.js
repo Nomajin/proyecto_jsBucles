@@ -5,7 +5,7 @@
 
 const prompt = require('prompt-sync')();
 
-let acumulador = 0
+let acumulador1 = 0
 let contador = 0
 let n;
 
@@ -16,22 +16,25 @@ let Media;
         n = prompt ('Introduzca n: ');
         n = Number (n);
 
-        acumulador = n
+        if (n != -1) {
 
-        console.log (` Acumulador  es ${ acumulador} `)
+        acumulador2 = n;
 
 
-        acumulador = acumulador + acumulador;
+        acumulador1 = acumulador1 + acumulador2;
 
-                console.log (` Acumulador  es ${ acumulador} `)
+                console.log (` Acumulador  es ${ acumulador1} `);
 
         contador ++;
+
+            
+        }
+
+       
     } 
 
-    Media = acumulador / contador;
+ Media = acumulador1 / contador;
 
-        console.log (` contador ${contador} `)
+  console.log (` contador ${contador} `)
 
-        console.log (`La media de todos los numero es ${Media} `)
-
-    
+  console.log (`La media de todos los numero es ${Media} `)
