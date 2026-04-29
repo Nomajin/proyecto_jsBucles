@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb8fcd1a-cee0-4792-a635-628d9a5c7b4e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ejercicios_bucles_2/Ejercicio2prueba_ejercicios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/connect4/Connect4$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/connect4/Connect4$Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/connect4/Connect4.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/connect4/Connect4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/connect4/Connect4TDD.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/connect4/Connect4TDD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/FriendsCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/FriendsCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/Friendships.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/Friendships.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/FriendshipsMongo.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/FriendshipsMongo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/friendships/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/ship/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/tictactoe/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/classes/org/iesvdm/tddjava/tictactoe/TicTacToe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/asserts/AssertJTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/asserts/AssertJTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/asserts/AssertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/asserts/AssertTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/asserts/HamcrestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/asserts/HamcrestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/connect4/Connect4TDDSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/connect4/Connect4TDDSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsAssertJTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsAssertJTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsHamcrestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsHamcrestTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsMongoAssertJTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsMongoAssertJTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsMongoEasyMockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsMongoEasyMockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/FriendshipsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/PersonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/friendships/PersonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/DirectionSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/DirectionSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/LocationSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/PlanetSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/PlanetSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/PointSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/PointSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/ShipSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/ship/ShipSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/tictactoe/TicTacToeSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/prueba_unitarias/target/test-classes/org/iesvdm/tddjava/tictactoe/TicTacToeSpec.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3CU50dSljba1AGEkQTjwvbyNnj2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb8fcd1a-cee0-4792-a635-628d9a5c7b4e" name="Changes" comment="" />
+      <created>1776427086089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776427086089</updated>
+      <workItem from="1776427095329" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>

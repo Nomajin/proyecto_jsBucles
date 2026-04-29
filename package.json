@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "complexity-report": "^2.0.0-alpha",
     "prompt-sync": "^4.2.0"
   }
 }
